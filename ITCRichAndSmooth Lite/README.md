@@ -1,1 +1,1 @@
-# ITCConnect
+# ITCRichAndSmoothLite
