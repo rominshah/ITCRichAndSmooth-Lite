@@ -592,14 +592,14 @@ AnimationClip:
       - serializedVersion: 3
         time: 1
         value: 0.018558769
-        inSlope: 0.042019855
-        outSlope: 0.042019855
+        inSlope: 0.049490053
+        outSlope: 0.049490053
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.7666667
+        time: 1.5
         value: 0.4
         inSlope: 0
         outSlope: 0
@@ -608,7 +608,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.3333333
+        time: 1.9
         value: 0
         inSlope: 0
         outSlope: 0
@@ -1586,7 +1586,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.63338304
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1605,7 +1605,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.0047169924
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2548,14 +2548,14 @@ AnimationClip:
       - serializedVersion: 3
         time: 1
         value: 0.018558769
-        inSlope: 0.042019855
-        outSlope: 0.042019855
+        inSlope: 0.049490053
+        outSlope: 0.049490053
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.7666667
+        time: 1.5
         value: 0.4
         inSlope: 0
         outSlope: 0
@@ -2564,7 +2564,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.3333333
+        time: 1.9
         value: 0
         inSlope: 0
         outSlope: 0
@@ -4307,7 +4307,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.63338304
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -4326,7 +4326,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.0047169924
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 136
