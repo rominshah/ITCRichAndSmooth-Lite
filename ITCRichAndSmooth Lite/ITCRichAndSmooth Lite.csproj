@@ -246,7 +246,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.22f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/UNITY PROJ/ITCClassicRichAndSmoothLite/ITCRichAndSmooth Lite/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/UNITY PROJ/ITCClassicRichAndSmoothLite/ITCRichAndSmooth-Lite/ITCRichAndSmooth Lite/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.22f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
